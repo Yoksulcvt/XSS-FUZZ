@@ -33,7 +33,7 @@ python3 xssfuzz.py -t "https://example.com/?search=XSS" -p payload.txt
 ```
 
 
-> 💡 URL'deki **`XSS`** yazısı, payloadların enjekte edileceği noktadır.
+>  URL'deki **`XSS`** yazısı, payloadların enjekte edileceği noktadır.
 
 ---
 
@@ -51,6 +51,7 @@ python3 xssfuzz.py -t "https://example.com/?search=XSS" -p payload.txt
 ![screenshot](screenshot.png)
 
 ---
+**Github:**@Yoksulcvt
 
 ## Lisans
 
