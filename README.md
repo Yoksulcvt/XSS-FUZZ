@@ -42,7 +42,7 @@ python3 xssfuzz.py -t "https://example.com/?search=XSS" -p payload.txt
 | Parametre | Açıklama |
 |-----------|----------|
 | `-t`, `--target` | Hedef URL |
-| `-w`, `--payload-list` | Payload listesi dosyası |
+| `-p`, `--payload-list` | Payload listesi dosyası |
 
 ---
 
